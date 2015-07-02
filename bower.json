@@ -1,0 +1,19 @@
+{
+  "name": "premier-projet",
+  "version": "0.0.1",
+  "authors": [
+    "Cesbron Olivier <ocesbron@sqli.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0",
+    "paper-checkbox": "PolymerElements/paper-checkbox#^1.0.0"
+  }
+}
